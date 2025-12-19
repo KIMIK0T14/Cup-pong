@@ -377,4 +377,4 @@ UserInputService.InputChanged:Connect(function(input)
     end
 end)
 
-print("[v0] KIMIKO BETA loaded successfully")
+print("KIMIKO BETA loaded successfully")
